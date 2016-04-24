@@ -23,6 +23,22 @@
 
 [MEANTaurus](https://github.com/BitTigerInst/MEANTaurus)
 
-[]()
+[Douban_crawler_recommender](https://github.com/BitTigerInst/Douban_crawler_recommender)
 
+[AndroidChat](https://github.com/BitTigerInst/AndroidChat)
 
+[Empachat](https://github.com/BitTigerInst/Empachat)
+
+[Gear](https://github.com/BitTigerInst/Gear)
+
+[Pikachu](https://github.com/BitTigerInst/Pikachu)
+
+[AraChat](https://github.com/BitTigerInst/Zeus)
+
+[RealMonkeyKing](https://github.com/BitTigerInst/RealMonkeyKing)
+
+[Mongoose-MovieWishList-Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator)
+
+[Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger)
+
+[wukong](https://github.com/BitTigerInst/wukong)
