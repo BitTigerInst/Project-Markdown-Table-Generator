@@ -1,13 +1,11 @@
 | Projects | Tech Stacks | Teams |
 | :-------------: |:-------------:| :-----:|
-| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> |
-| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu  | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> |
-| zebra stripes | are neat      |    $1 |
+| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | <img src="./resource/icons/nodejs.png" height="35px"> <img src="./resource/icons/angular-symbol.png" height="35px"> |
+| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu  | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" height="35px"> |
+| [Mongoose MovieWishList Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator) | Mongoose |<img src="./resource/icons/nodejs.png" height="35px"> <img src="./resource/icons/angular-symbol.png" height="35px">|
 
 **Full Stack**
 
-- [wukong](https://github.com/BitTigerInst/wukong)
-- [Pikachu](https://github.com/BitTigerInst/Pikachu)
 - [Mongoose-MovieWishList-Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator)
 - [MonkeyKing_crawler_recommender](https://github.com/BitTigerInst/MonkeyKing_crawler_recommender)
 - [FalconCrawler](https://github.com/BitTigerInst/FalconCrawler)
