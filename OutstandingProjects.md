@@ -1,7 +1,7 @@
 | Projects | Tech Stacks | Teams |
 | :-------------: |:-------------:| :-----:|
-| [wukong](https://github.com/BitTigerInst/wukong) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> | BJGX (白驹过隙) |
-| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> | Pikachu |
+| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> |
+| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu  | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> |
 | zebra stripes | are neat      |    $1 |
 
 **Full Stack**
