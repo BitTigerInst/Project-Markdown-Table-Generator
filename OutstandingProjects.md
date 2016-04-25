@@ -1,14 +1,12 @@
 | Projects | Tech Stacks | Teams |
 | :-------------: |:-------------:| :-----:|
-| [wukong](https://github.com/BitTigerInst/wukong)      | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> | 白驹过隙 |
-| col 2 is      | centered      |   $12 |
+| [wukong](https://github.com/BitTigerInst/wukong) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> | BJGX (白驹过隙) |
+| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu) | <img src="./resource/icons/nodejs.png" alt="alt text" height="35px"> <img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px"> | Pikachu |
 | zebra stripes | are neat      |    $1 |
 
 **Full Stack**
 
 - [wukong](https://github.com/BitTigerInst/wukong)
-<img src="./resource/icons/nodejs.png" alt="alt text" height="35px">
-<img src="./resource/icons/angular-symbol.png" alt="alt text" height="35px">
 - [Pikachu](https://github.com/BitTigerInst/Pikachu)
 - [Mongoose-MovieWishList-Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator)
 - [MonkeyKing_crawler_recommender](https://github.com/BitTigerInst/MonkeyKing_crawler_recommender)
