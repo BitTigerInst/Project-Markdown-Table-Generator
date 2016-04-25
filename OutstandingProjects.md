@@ -5,7 +5,7 @@ http://fizzed.com/oss/font-mfizz
 **Full Stack**
 
 - <i class="icon-nodejs" style="font-size:2em"></i> [wukong](https://github.com/BitTigerInst/wukong)
-- <i class="icon-nodejs" style="font-size:2em"></i>[Pikachu](https://github.com/BitTigerInst/Pikachu)
+- <i class="icon-nodejs" style="font-size:2em"></i> [Pikachu](https://github.com/BitTigerInst/Pikachu)
 - [Mongoose-MovieWishList-Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator)
 - [MonkeyKing_crawler_recommender](https://github.com/BitTigerInst/MonkeyKing_crawler_recommender)
 - <i class="icon-nodejs" style="font-size:2em"></i>[FalconCrawler](https://github.com/BitTigerInst/FalconCrawler)
@@ -24,7 +24,7 @@ http://fizzed.com/oss/font-mfizz
 
 **Mobile**
 
-- <i class="icon-android"></i>[AndroidChat](https://github.com/BitTigerInst/AndroidChat)
+- <i class="icon-android"></i>[AndroidChat] (https://github.com/BitTigerInst/AndroidChat)
 - [Empachat](https://github.com/BitTigerInst/Empachat)
 - [calabashCat](https://github.com/BitTigerInst/calabashCat)
 
