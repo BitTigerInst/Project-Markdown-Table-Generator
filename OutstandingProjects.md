@@ -33,7 +33,7 @@ windows
 
 
 | Projects | Teams | Stacks |
-| :-------------: |:-------------:| :-----|
+| :-------------: |:-------------:| :-----:|
 | [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | <img src='./resource/icons/nodejs.png' height='35px'> <img src='./resource/icons/angular.png' height='35px'> <img src='./resource/icons/mongodb.png' height='35px'> |
 | [Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger) | BJGX (白驹过隙) | <img src='./resource/icons/nodejs.png' height='35px'> |
 | [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu  | <img src='./resource/icons/nodejs.png' height='35px'> <img src='./resource/icons/angular.png' height='35px'> <img src='./resource/icons/mongodb.png' height='35px'> |
