@@ -32,22 +32,22 @@ windows
 **Full Stack**
 
 
-| Projects | Teams | Stacks |
-| :-------------: |:-------------:| :-----|
-| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
-| [Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger) | BJGX (白驹过隙) | xxx<nodejs>ooo |
-| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu  | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
-| [Mongoose MovieWishList Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator) | Mongoose | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
-| [FalconCrawler](https://github.com/BitTigerInst/FalconCrawler) | Fighting Falcon | xxx<nodejs>ooo xxx<angular>ooo |
-| [MEANTaurus](https://github.com/BitTigerInst/MEANTaurus) | Fighting Falcon | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo|
-| [Lab Document System](https://github.com/BitTigerInst/LabDocumentSystem) | Sly pyhton | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
-| [MonkeyKing Crawler Recommender](https://github.com/BitTigerInst/MonkeyKing_crawler_recommender) | MonkeyKing01 | xxx<python>ooo xxx<mongodb>ooo |
-| [Gloomy Bear Financial Crawler](https://github.com/BitTigerInst/Gloomy-Bear-FinancialCrawler) | Gloomy Bear | xxx<python>ooo xxx<reddis>ooo xxx<mongodb>ooo |
-| [Kungfu Panda AppStore](https://github.com/BitTigerInst/Kungfu_Panda_AppStore) | Gungfu_Panda | xxx<python>ooo xxx<mongodb>ooo |
-| [Zeus](https://github.com/BitTigerInst/Zeus) | cc13ny | xxx<meteor>ooo |
-| [GamesStore Website in Java](https://github.com/BitTigerInst/GamesStore---Website-in-Java) | Totoro | xxx<java>ooo xxx<spring_mvc>ooo xxx<angular>ooo xxx<mongodb>ooo xxx<jquery>ooo|
-| [Catshark](https://github.com/BitTigerInst/Catshark) | Catshark | xxx<python>ooo xxx<flask>ooo |
-| [Appstore by React](https://github.com/BitTigerInst/RealMonkeyKing) |  RealMonkeyKing | xxx<python>ooo|
+| Projects | Teams | Description |Stacks |
+| :-------------: |:-------------:| :----: |:-----:|
+| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | "Platform for BitTiger." | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
+| [Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger) | BJGX (白驹过隙) | "Crawer for wukong." | xxx<nodejs>ooo |
+| [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu | "菜谱搜索" | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
+| [Mongoose MovieWishList Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator) | Mongoose | "TMDb movie recommender." | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
+| [FalconCrawler](https://github.com/BitTigerInst/FalconCrawler) | Fighting Falcon | "A Zhihu & StackOverflow crawler." | xxx<nodejs>ooo xxx<angular>ooo |
+| [MEANTaurus](https://github.com/BitTigerInst/MEANTaurus) | Fighting Falcon | "An lean Amazon clone." | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo|
+| [Lab Document System](https://github.com/BitTigerInst/LabDocumentSystem) | Sly pyhton | "A Lab document system." | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
+| [MonkeyKing Crawler Recommender](https://github.com/BitTigerInst/MonkeyKing_crawler_recommender) | MonkeyKing01 | "A Xiaomi app store crawler." | xxx<python>ooo xxx<mongodb>ooo |
+| [Kungfu Panda AppStore](https://github.com/BitTigerInst/Kungfu_Panda_AppStore) | Gungfu_Panda | "A Huawei app store crawler." | xxx<python>ooo xxx<mongodb>ooo |
+| [Gloomy Bear Financial Crawler](https://github.com/BitTigerInst/Gloomy-Bear-FinancialCrawler) | Gloomy Bear | "a Financical Information Web Crawler." | xxx<python>ooo xxx<reddis>ooo xxx<mongodb>ooo |
+| [Zeus](https://github.com/BitTigerInst/Zeus) | cc13ny | "A chat application." | xxx<meteor>ooo |
+| [GamesStore Website in Java](https://github.com/BitTigerInst/GamesStore---Website-in-Java) | Totoro | "A website platform for trading/selling games." | xxx<java>ooo xxx<spring_mvc>ooo xxx<angular>ooo xxx<mongodb>ooo xxx<jquery>ooo|
+| [Catshark](https://github.com/BitTigerInst/Catshark) | Catshark | "A chat application." | xxx<python>ooo xxx<flask>ooo |
+| [Appstore by React](https://github.com/BitTigerInst/RealMonkeyKing) |  RealMonkeyKing | "An app store." |xxx<python>ooo|
 
 
 **Mobile**
