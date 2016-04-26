@@ -29,8 +29,7 @@ windows
 
 
 
-**Full Stack**
-
+## Full Stack
 
 | Projects | Teams | Description |Stacks |
 | :-------------: |:-------------:| :----: |:-----:|
@@ -50,13 +49,13 @@ windows
 | [Appstore by React](https://github.com/BitTigerInst/RealMonkeyKing) |  RealMonkeyKing | *App store* |<img src='./resource/icons/python.png' height='35px'>|
 
 
-**Mobile**
+## Mobile
 
 - [AndroidChat] (https://github.com/BitTigerInst/AndroidChat)
 - [Empachat](https://github.com/BitTigerInst/Empachat)
 - [calabashCat](https://github.com/BitTigerInst/calabashCat)
 
-**Big Data**
+## Big Data
 
 - [Bigdata_Analysis](https://github.com/BitTigerInst/bigdata_analysis)
 - [TwitterAnalytics](https://github.com/BitTigerInst/TwitterAnalytics)

@@ -29,12 +29,11 @@ windows
 
 
 
-**Full Stack**
-
+## Full Stack
 
 | Projects | Teams | Description |Stacks |
 | :-------------: |:-------------:| :----: |:-----:|
-| [wukong](https://github.com/BitTigerInst/wukong) | BJGX (白驹过隙) | *Platform for BitTiger* | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
+| [wukong](https://github.com/BitTigerInst/wukong) | BJGX(白驹过隙) | *Platform for BitTiger* | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
 | [Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger) | BJGX (白驹过隙) | *Crawer for wukong* | xxx<nodejs>ooo |
 | [美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)| Pikachu | *菜谱搜索* | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
 | [Mongoose MovieWishList Generator](https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator) | Mongoose | *TMDb movie recommender* | xxx<nodejs>ooo xxx<angular>ooo xxx<mongodb>ooo |
@@ -50,13 +49,13 @@ windows
 | [Appstore by React](https://github.com/BitTigerInst/RealMonkeyKing) |  RealMonkeyKing | *App store* |xxx<python>ooo|
 
 
-**Mobile**
+## Mobile
 
 - [AndroidChat] (https://github.com/BitTigerInst/AndroidChat)
 - [Empachat](https://github.com/BitTigerInst/Empachat)
 - [calabashCat](https://github.com/BitTigerInst/calabashCat)
 
-**Big Data**
+## Big Data
 
 - [Bigdata_Analysis](https://github.com/BitTigerInst/bigdata_analysis)
 - [TwitterAnalytics](https://github.com/BitTigerInst/TwitterAnalytics)
