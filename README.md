@@ -1,6 +1,6 @@
-# Project Markdown Table Generator
+# Project Markdown/HTML Table Generator
 
-The *Project Markdown Table Generator* reads project data from `projects.json` and generates stylish **markdown**/**html** tables. [Check out a sample here. ](./OutstandingProjects.md)
+The *Project Markdown/HTML Table Generator* reads project data from `projects.json` and generates stylish **markdown**/**html** tables. [Check out a sample here. ](./OutstandingProjects.md)
 
 >**Note:** Code only tested on OSX with python pre-installed.
 
@@ -21,7 +21,7 @@ python ./scripts/md_table_generator.py
 
 ## projects.json
 
-The `projects.json` should be in the same folder as `md_table_generator.py` and provide these properties `name`, `category`, `project_url`, `team`, `description`, `stack` as the example shown below.
+The `projects.json` should be in the same folder as `md_table_generator.py` and provide properties `name`, `category`, `project_url`, `team`, `description`, `stack` as shown below:
 
 ```
 {
@@ -57,12 +57,12 @@ The `projects.json` should be in the same folder as `md_table_generator.py` and 
 ```
 #### Category Property
 
-`category` means the project category in the JSON file. Currently, only `full stack`, `mobile` and `big data` are supported in this field. If a project lists `full stack` as one of its categories, it will show up in the *Full Stack* project markdown table. As suggested by the JSON array syntax, one project may have more than one category.
+`category` means the project category in the JSON file. Currently, only `full stack`, `mobile` and `big data` are supported in this field. If a project lists `full stack` as one of its categories, it will show up in the *Full Stack* project table. As suggested by the JSON array syntax, one project may have more than one category.
 
 
 #### Stack Property
 
-`stack` property in the JSON file means the project's technology stack. Each item in the array will be replaced with a corresponding icon in the table. The script generates html image tags `<img>...</img>` to link corresponding icons. For example, a `nodejs.png` will be embedded in the table if the `stack` property contains `nodejs`. Therefore, all items inside the `stack` property should match the exsiting file names in the folder `resource/icons`.
+`stack` property means the project's technology stack. Each item in the array will be replaced by an icon in the table. The script generates html image tags `<img>...</img>` to embed those icons. For example, a `nodejs.png` will be embedded in the table if the `stack` property contains `nodejs`. However, all items inside the `stack` property should match the exsiting file names in the folder `resource/icons`.
 
 Only following items are supported at this moment:
 
@@ -97,6 +97,14 @@ spring\_mvc
 tomcat
 windows
 
+## Acknowledgements
+
+*Project Markdown Table Generator* makes use of the following open source projects or resource:
+
+ - [python-markdown2](https://github.com/trentm/python-markdown2)
+ - [iconfinder:Jozef89](https://www.iconfinder.com/Jozef89)
+ - Let me know I miss something...
+
 ## License
-Code released under the [MIT](https://opensource.org/licenses/MIT) license. (官人随意……)
+Code released under the [MIT](https://opensource.org/licenses/MIT) license.
 
