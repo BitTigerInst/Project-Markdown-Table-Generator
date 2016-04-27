@@ -4,7 +4,7 @@ The *Project Markdown Table Generator* reads project data from `projects.json` a
 
 >**Note:** Code only tested on OSX with python pre-installed.
 
-![](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/resource/screenshot.png)
+![](./resource/screenshot.png)
 
 ## Run the script
 
