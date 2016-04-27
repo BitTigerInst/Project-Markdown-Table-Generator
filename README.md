@@ -15,7 +15,7 @@ python ./scripts/md_table_generator.py
 
 ## projects.json
 
-The format of `projects.json` should be in the same folder as `md_table_generator.py` and provide these properties `name`, `category`, `project_url`, `team`, `description`, `stack` as the example shown below.
+The `projects.json` should be in the same folder as `md_table_generator.py` and provide these properties `name`, `category`, `project_url`, `team`, `description`, `stack` as the example shown below.
 
 ```
 {
