@@ -1,16 +1,21 @@
 # Project Markdown Table Generator
 
-The *Project Markdown Table Generator* reads from the project data from `projects.json` and generates stylish markdown tables in the file `OutstandingProjects.md`. Please checkout [BitTiger Outstanding Projects](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/OutstandingProjects.md) as an example.
+The *Project Markdown Table Generator* reads from the project data from `projects.json` and generates stylish markdown tables in the file `OutstandingProjects.md`. 
 
+Please checkout [BitTiger Outstanding Projects](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/OutstandingProjects.md) as an example.
+
+![](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/resource/screenshot.png)
 
 ---
+
 **Run the script**
 
+The python script reads `projects.json` and generates markdown tables in `OutstandingProjects.md`.
 ```
 python ./scripts/md_table_generator.py
 ```
 
-**JSON Format**
+**projects.json**
 
 The format of `projects.json` should be in the same folder as `md_table_generator.py` and provide these properties `name`, `category`, `project_url`, `team`, `description`, `stack` as the example shown below.
 
@@ -47,7 +52,8 @@ The format of `projects.json` should be in the same folder as `md_table_generato
 }
 ```
 **Category Property**
-`category` means the project category in the JSON file. Currently, only `full stack`, `mobile` and `big data` are supported in this field. If a project lists `full stack` as one of its categories, it will show up in the *Full Stack* project markdown table. As suggested by the array syntax, one project may have more than one category.
+
+`category` means the project category in the JSON file. Currently, only `full stack`, `mobile` and `big data` are supported in this field. If a project lists `full stack` as one of its categories, it will show up in the *Full Stack* project markdown table. As suggested by the JSON array syntax, one project may have more than one category.
 
 
 **Stack Property**
