@@ -2,6 +2,9 @@
    "projects":[
       {
          "name":"wukong",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/wukong",
          "team":"BJGX(白驹过隙)",
          "description":"Platform for BitTiger",
@@ -13,6 +16,9 @@
       },
       {
          "name":"Crawler-bitTiger",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Crawler-bitTiger",
          "team":"BJGX(白驹过隙)",
          "description":"Crawer for wukong",
@@ -22,28 +28,40 @@
       },
       {
          "name":"美食爬虫和搜索",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Pikachu",
          "team":"Pikachu",
          "description":"菜谱搜索",
          "stack":[
             "nodejs",
             "angular",
-            "mongodb"
+            "mongodb",
+            "cordova"
          ]
       },
       {
          "name":"Mongoose MovieWishList Generator",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator",
          "team":"Mongoose",
          "description":"TMDb movie recommender",
          "stack":[
-            "nodejs",
-            "angular",
+            "ruby_on_rails",
+            "javascript",
+            "react",
+            "python",
             "mongodb"
          ]
       },
       {
          "name":"FalconCrawler",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/FalconCrawler",
          "team":"Fighting Falcon",
          "description":"Zhihu & StackOverflow crawler",
@@ -54,6 +72,9 @@
       },
       {
          "name":"MEANTaurus",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/MEANTaurus",
          "team":"Fighting Falcon",
          "description":"Lean Amazon clone",
@@ -65,6 +86,9 @@
       },
       {
          "name":"Lab Document System",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/LabDocumentSystem",
          "team":"Sly pyhton",
          "description":"Lab document system",
@@ -76,6 +100,9 @@
       },
       {
          "name":"MonkeyKing Crawler Recommender",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/MonkeyKing_crawler_recommender",
          "team":"MonkeyKing01",
          "description":"Xiaomi app store crawler",
@@ -86,6 +113,9 @@
       },
       {
          "name":"Kungfu Panda AppStore",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Kungfu_Panda_AppStore",
          "team":"Gungfu_Panda",
          "description":"Huawei app store crawler",
@@ -96,6 +126,9 @@
       },
       {
          "name":"Gloomy Bear Financial Crawler",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Gloomy-Bear-FinancialCrawler",
          "team":"Gloomy Bear",
          "description":"Financical information Crawler",
@@ -107,6 +140,9 @@
       },
       {
          "name":"Zeus",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Zeus",
          "team":"cc13ny ",
          "description":"Chat application",
@@ -116,12 +152,15 @@
       },
       {
          "name":"GamesStore Website in Java",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/GamesStore---Website-in-Java",
          "team":"Totoro",
          "description":"Website platform for trading/selling games",
          "stack":[
             "java",
-            "sprint_mvc",
+            "spring_mvc",
             "angular",
             "mongodb",
             "jquery"
@@ -129,6 +168,9 @@
       },
       {
          "name":"Catshark",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/Catshark",
          "team":"Catshark",
          "description":"Chat application",
@@ -139,11 +181,80 @@
       },
       {
          "name":"Appstore by React",
+         "category":[
+            "full stack"
+         ],
          "project_url":"https://github.com/BitTigerInst/RealMonkeyKing",
          "team":"RealMonkeyKing",
          "description":"App store",
          "stack":[
-            "python"
+            "python",
+            "react"
+         ]
+      },
+      {
+         "name":"AndroidChat",
+         "category":[
+            "mobile"
+         ],
+         "project_url":"https://github.com/BitTigerInst/AndroidChat",
+         "team":"MonkeyBOOM",
+         "description":"App store",
+         "stack":[
+            "android",
+            "firebase"
+         ]
+      },
+      {
+         "name":"Empachat",
+         "category":[
+            "full stack"
+         ],
+         "project_url":"https://github.com/BitTigerInst/Empachat",
+         "team":"HomoSapiens",
+         "description":"Empachat provides empathetic chat",
+         "stack":[
+            "meteor",
+            "mongodb"
+         ]
+      },
+      {
+         "name":"calabashCat",
+         "category":[
+            "mobile"
+         ],
+         "project_url":"https://github.com/BitTigerInst/calabashCat",
+         "team":"calabashCat",
+         "description":"Chat application",
+         "stack":[
+            "android"
+         ]
+      },
+      {
+         "name":"Bigdata Analysis",
+         "category":[
+            "big data"
+         ],
+         "project_url":"https://github.com/BitTigerInst/bigdata_analysis",
+         "team":"Amazing Gabear",
+         "description":"Practicing Spark",
+         "stack":[
+            "spark"
+         ]
+      },
+      {
+         "name":"Twitter Analytics Web Service",
+         "category":[
+            "big data"
+         ],
+         "project_url":"https://github.com/BitTigerInst/TwitterAnalytics",
+         "team":"Octupus",
+         "description":"Twitter data analysis",
+         "stack":[
+            "java",
+            "tomcat",
+            "python",
+            "mysql"
          ]
       }
    ]
