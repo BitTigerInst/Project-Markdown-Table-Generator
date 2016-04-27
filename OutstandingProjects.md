@@ -1,15 +1,15 @@
 ## MOBILE
 
-| Projects | Teams | Description |Stacks | 
-| :-------------: |:-------------:| :----: |:-----:| 
+| Projects | Teams | Description |Stacks |
+| :-------------: |:-------------:| :----: |:-----:|
 |[AndroidChat](https://github.com/BitTigerInst/AndroidChat)|MonkeyBOOM|Chat application|<img src='./resource/icons/android.png' height='35px'> <img src='./resource/icons/firebase.png' height='35px'> |
 |[calabashCat](https://github.com/BitTigerInst/calabashCat)|calabashCat|Chat application|<img src='./resource/icons/android.png' height='35px'> |
 
 
 ## FULL STACK
 
-| Projects | Teams | Description |Stacks | 
-| :-------------: |:-------------:| :----: |:-----:| 
+| Projects | Teams | Description |Stacks |
+| :-------------: |:-------------:| :----: |:-----:|
 |[wukong](https://github.com/BitTigerInst/wukong)|BJGX(白驹过隙)|Platform for BitTiger|<img src='./resource/icons/nodejs.png' height='35px'> <img src='./resource/icons/angular.png' height='35px'> <img src='./resource/icons/mongodb.png' height='35px'> |
 |[Crawler-bitTiger](https://github.com/BitTigerInst/Crawler-bitTiger)|BJGX(白驹过隙)|Crawler for wukong|<img src='./resource/icons/nodejs.png' height='35px'> |
 |[美食爬虫和搜索](https://github.com/BitTigerInst/Pikachu)|Pikachu|菜谱搜索|<img src='./resource/icons/nodejs.png' height='35px'> <img src='./resource/icons/angular.png' height='35px'> <img src='./resource/icons/mongodb.png' height='35px'> <img src='./resource/icons/cordova.png' height='35px'> |
@@ -29,8 +29,8 @@
 
 ## BIG DATA
 
-| Projects | Teams | Description |Stacks | 
-| :-------------: |:-------------:| :----: |:-----:| 
+| Projects | Teams | Description |Stacks |
+| :-------------: |:-------------:| :----: |:-----:|
 |[Bigdata Analysis](https://github.com/BitTigerInst/bigdata_analysis)|Amazing Gabear|Practicing Spark|<img src='./resource/icons/spark.png' height='35px'> |
 |[Twitter Analytics Web Service](https://github.com/BitTigerInst/TwitterAnalytics)|Octupus|Twitter data analysis|<img src='./resource/icons/java.png' height='35px'> <img src='./resource/icons/tomcat.png' height='35px'> <img src='./resource/icons/python.png' height='35px'> <img src='./resource/icons/mysql.png' height='35px'> |
 

@@ -1,6 +1,6 @@
 # Project Markdown Table Generator
 
-The *Project Markdown Table Generator* reads project data from `projects.json` and generates stylish markdown tables in the file `OutstandingProjects.md`. [Check out a sample here. ](./OutstandingProjects.md)
+The *Project Markdown Table Generator* reads project data from `projects.json` and generates stylish **markdown**/**html** tables. [Check out a sample here. ](./OutstandingProjects.md)
 
 >**Note:** Code only tested on OSX with python pre-installed.
 
@@ -8,10 +8,16 @@ The *Project Markdown Table Generator* reads project data from `projects.json` a
 
 ## Run the script
 
-The python script reads `projects.json` and generates markdown tables in `OutstandingProjects.md`.
 ```
 python ./scripts/md_table_generator.py
 ```
+
+**Output**
+
+- `OutstandingProjects.md`: a markdown file containing all tables
+- `<category_1>.html`: a html table file containing the projects in *category_1*
+- `<category_2>.html`: a html table file containing the projects in *category_2*
+- ...
 
 ## projects.json
 
