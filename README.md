@@ -8,14 +8,14 @@ Please checkout [BitTiger Outstanding Projects](https://github.com/hackjustu/Bit
 
 ---
 
-**Run the script**
+## Run the script
 
 The python script reads `projects.json` and generates markdown tables in `OutstandingProjects.md`.
 ```
 python ./scripts/md_table_generator.py
 ```
 
-**projects.json**
+## projects.json
 
 The format of `projects.json` should be in the same folder as `md_table_generator.py` and provide these properties `name`, `category`, `project_url`, `team`, `description`, `stack` as the example shown below.
 
@@ -51,12 +51,12 @@ The format of `projects.json` should be in the same folder as `md_table_generato
    ]
 }
 ```
-**Category Property**
+#### Category Property
 
 `category` means the project category in the JSON file. Currently, only `full stack`, `mobile` and `big data` are supported in this field. If a project lists `full stack` as one of its categories, it will show up in the *Full Stack* project markdown table. As suggested by the JSON array syntax, one project may have more than one category.
 
 
-**Stack Property**
+#### Stack Property
 
 `stack` means technology stack in the JSON file above. Each item in the array will be replaced with a corresponding icon in the table. The script generates html image tags `<img>...</img>` to link corresponding icons. For example, a `nodejs.png` will be embedded in the table if the `stack` property contains `nodejs`. All items inside the `stack` property should match the exsiting file names in the folder `resource/icons`.
 
@@ -93,5 +93,6 @@ spring\_mvc
 tomcat
 windows
 
-
+## License
+Code released under the [MIT](https://opensource.org/licenses/MIT) license.
 
