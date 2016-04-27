@@ -15,7 +15,6 @@ def compose_html_image_tags(stack):
 
 # ----------- Starts here -----------
 current_dir = os.path.dirname(os.path.realpath(__file__))
-print current_dir
 
 with open(current_dir + '/projects.json') as data_file:
     projects = json.load(data_file)
@@ -56,3 +55,5 @@ for key, value in tables.iteritems():
         f.write("## " + key.upper() + "\n\n")
         f.write(value.encode('utf8') + "\n\n")
 f.close()
+
+print "Please check out OutStandingProjects.md :)"
