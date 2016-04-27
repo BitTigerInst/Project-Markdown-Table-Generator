@@ -92,5 +92,5 @@ tomcat
 windows
 
 ## License
-Code released under the [MIT](https://opensource.org/licenses/MIT) license.
+Code released under the [MIT](https://opensource.org/licenses/MIT) license. (官人随意……)
 
