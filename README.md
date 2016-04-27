@@ -2,8 +2,6 @@
 
 The *Project Markdown/HTML Table Generator* reads project data from `projects.json` and generates stylish **markdown**/**html** tables. [Check out a sample here. ](./OutstandingProjects.md)
 
->**Note:** Code only tested on OSX with python pre-installed.
-
 ![](./resource/screenshot.png)
 
 ## Run the script
@@ -18,6 +16,8 @@ python ./scripts/md_table_generator.py
 - `<category_1>.html`: a html table file containing the projects in *category_1*
 - `<category_2>.html`: a html table file containing the projects in *category_2*
 - ...
+
+>**Note:** Code only tested on OSX with python pre-installed.
 
 ## projects.json
 
