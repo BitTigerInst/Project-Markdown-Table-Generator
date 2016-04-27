@@ -21,7 +21,7 @@
          ],
          "project_url":"https://github.com/BitTigerInst/Crawler-bitTiger",
          "team":"BJGX(白驹过隙)",
-         "description":"Crawer for wukong",
+         "description":"Crawler for wukong",
          "stack":[
             "nodejs"
          ]
@@ -199,7 +199,7 @@
          ],
          "project_url":"https://github.com/BitTigerInst/AndroidChat",
          "team":"MonkeyBOOM",
-         "description":"App store",
+         "description":"Chat application",
          "stack":[
             "android",
             "firebase"
@@ -212,7 +212,7 @@
          ],
          "project_url":"https://github.com/BitTigerInst/Empachat",
          "team":"HomoSapiens",
-         "description":"Empachat provides empathetic chat",
+         "description":"Empathetic chat",
          "stack":[
             "meteor",
             "mongodb"
