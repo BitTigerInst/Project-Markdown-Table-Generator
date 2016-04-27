@@ -56,9 +56,9 @@ The format of `projects.json` should be in the same folder as `md_table_generato
 
 #### Stack Property
 
-`stack` means technology stack in the JSON file above. Each item in the array will be replaced with a corresponding icon in the table. The script generates html image tags `<img>...</img>` to link corresponding icons. For example, a `nodejs.png` will be embedded in the table if the `stack` property contains `nodejs`. All items inside the `stack` property should match the exsiting file names in the folder `resource/icons`.
+`stack` property in the JSON file means the project's technology stack. Each item in the array will be replaced with a corresponding icon in the table. The script generates html image tags `<img>...</img>` to link corresponding icons. For example, a `nodejs.png` will be embedded in the table if the `stack` property contains `nodejs`. Therefore, all items inside the `stack` property should match the exsiting file names in the folder `resource/icons`.
 
-The following items are supported at this moment:
+Only following items are supported at this moment:
 
 >android
 angular
