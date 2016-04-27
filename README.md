@@ -103,7 +103,7 @@ windows
 
  - [python-markdown2](https://github.com/trentm/python-markdown2)
  - [iconfinder:Jozef89](https://www.iconfinder.com/Jozef89)
- - Let me know I miss something...
+ - Let me know if I miss something...
 
 ## License
 Code released under the [MIT](https://opensource.org/licenses/MIT) license.
