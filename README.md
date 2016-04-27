@@ -2,7 +2,7 @@
 
 The *Project Markdown Table Generator* reads from the project data from `projects.json` and generates stylish markdown tables in the file `OutstandingProjects.md`. 
 
->Please checkout [BitTiger Outstanding Projects](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/OutstandingProjects.md) as an example.
+>**Note:** Code only tested on OSX with python pre-installed. Please checkout [here](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/OutstandingProjects.md) for an example.
 
 ![](https://github.com/hackjustu/BitTigerGithubManagmentDraft/blob/master/resource/screenshot.png)
 
