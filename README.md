@@ -108,3 +108,8 @@ windows
 ## License
 Code released under the [MIT](https://opensource.org/licenses/MIT) license.
 
+## Repository information
+- category: full stack
+- team: Fighting Falcon
+- description: Generate stylish markdown/html tables based JSON.
+- stack: nodejs, angular
